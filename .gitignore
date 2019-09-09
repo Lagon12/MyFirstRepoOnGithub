@@ -1,0 +1,4 @@
+# on ignore les fichiers avec log en extensions
+
+*.log
+
